@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'Instrument Sans Regular';
+    src: url('../fonts/InstrumentSans-Regular.eot');
+    src: url('../fonts/InstrumentSans-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/InstrumentSans-Regular.woff2') format('woff2'),
+        url('../fonts/InstrumentSans-Regular.woff') format('woff'),
+        url('../fonts/InstrumentSans-Regular.ttf') format('truetype'),
+        url('../fonts/InstrumentSans-Regular.svg#InstrumentSans-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Instrument Sans Medium';
+    src: url('../fonts/InstrumentSans-Medium.eot');
+    src: url('../fonts/InstrumentSans-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/InstrumentSans-Medium.woff2') format('woff2'),
+        url('../fonts/InstrumentSans-Medium.woff') format('woff'),
+        url('../fonts/InstrumentSans-Medium.ttf') format('truetype'),
+        url('../fonts/InstrumentSans-Medium.svg#InstrumentSans-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Instrument Sans Bold';
+    src: url('../fonts/InstrumentSans-Bold.eot');
+    src: url('../fonts/InstrumentSans-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/InstrumentSans-Bold.woff2') format('woff2'),
+        url('../fonts/InstrumentSans-Bold.woff') format('woff'),
+        url('../fonts/InstrumentSans-Bold.ttf') format('truetype'),
+        url('../fonts/InstrumentSans-Bold.svg#InstrumentSans-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
